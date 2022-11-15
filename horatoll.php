@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS BOOTSTRAP -->
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <!-- SCRIPT BOOTSTRAP -->
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
+    <title>Horarios Tollocan</title>
+</head>
+<body>
+   <!-- STAR NAV -->
+   <div id="header">
+    <div class="menuContainer">
+    </div>	
+  </div>
+<!--END NAV-->
+<section class="text-center container">
+  <div class="row">
+    <div class="col-lg-6 col-md-8 mx-auto">
+      <h1 class="fw-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Horarios Ruta Tollocan</font></font></h1>
+    </div>
+  </div>
+</section>
+<table class="table container">
+  <thead>
+    <tr>
+      <th scope="col">No.</th>
+      <th scope="col">Lugar de Parada</th>
+      <th scope="col">Tiempo de llegada</th>
+    </tr>
+  </thead>
+  <tbody class="align-content-center">
+    <tr>
+      <th scope="row">1</th>
+      <td>Inicio(Walmart)</td>
+      <td>5:55 AM</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Mc Donals Tollocan</td>
+      <td>6:00 AM</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Comonfort</td>
+      <td>6:08 AM</tr>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Pilares</td>
+      <td>6:15 AM</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>Crisa</td>
+      <td>6:22 AM</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>Sendero</td>
+      <td>6:30 AM</td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>Puente de San Mateo Atenco</td>
+      <td>6:35 AM</td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>Outlet Lerma</td>
+      <td>6:40 AM</td>
+    </tr>
+    <tr>
+      <th scope="row">9</th>
+      <td>UTVT</td>
+      <td>7:00 AM</td>
+    </tr>
+  </tbody>
+</table>
+ <!--Pie de pagina-->
+ <footer class="bg-light text-center text-lg-start">
+        <div class="text-center p-3 container-fluid" style="background-color: white;">
+          <img src="http://localhost/INTEGRADOR/assets/img/telefono.jpeg" width="30px" height="30px">  7221864329
+          <img src="http://localhost/INTEGRADOR/assets/img/correo.jpeg" width="30px" height="30px">  central@gmail.com
+          <img src="http://localhost/INTEGRADOR/assets/img/instragram.jpeg" width="30px" height="30px">  SCInt
+          <img src="http://localhost/INTEGRADOR/assets/img/facebook.jpeg" width="30px" height="30px">  SCInternet
+        </div>
+      </footer>
+  <!--Fin de pie de pagina-->
+ <!-- JavaScript Bundle with Popper -->
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+<!--Implementacion del layout-->
+<script src="/integrador/assets/js/layout.js"></script>
+</html> 
